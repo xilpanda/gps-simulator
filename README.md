@@ -20,8 +20,10 @@ Na Windows-u:
 2. Kliknite na 'Advanced system settings' i zatim na dugme 'Environment Variables'.
 3. U System variables, potražite i izaberite `PATH`, zatim kliknite na 'Edit'.
 4. Dodajte putanju do `bin` direktorijuma unutar JDK direktorijuma.
-export JAVA_HOME=/putanja/do/vas/jdk
-export PATH=$JAVA_HOME/bin:$PATH
+
+`export JAVA_HOME=/putanja/do/vas/jdk`
+
+`export PATH=$JAVA_HOME/bin:$PATH`
 
 Na macOS/Linux:
 
@@ -32,19 +34,24 @@ Na macOS/Linux:
 ## Preuzimanje projekta
 
 1. Klonirajte repozitorijum koristeći:
-git clone https://github.com/username/gps-simulator.git
+
+`git clone https://github.com/username/gps-simulator.git`
 
 2. Navigirajte do direktorijuma projekta:
-cd gps-simulator
+
+`cd gps-simulator`
 
 ## Kompajliranje i pokretanje
 
 Iz direktorijuma projekta:
 
 1. Kompajlirajte izvorni kod koristeći:
-  javac GPSDeviceSimulator.java
+
+`javac GPSDeviceSimulator.java`
+
 2. Pokrenite aplikaciju koristeći:
-  java GPSDeviceSimulator
+
+`java GPSDeviceSimulator`
 
 
 ## Korišćenje Eclipse IDE-a
