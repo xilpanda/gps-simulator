@@ -1,7 +1,7 @@
 # GPS Simulator
 
-Ovaj projekat sadrži Java aplikaciju koja simulira GPS uređaje, generišući i šaljući lažne GPS koordinate. CILJ: Ovaj projekat kombinuje testiranje performansi sa virtualizacijom. 
-GPS simulator pokrecem na jednoj ili više Ubuntu VM-ova na Proxmox serveru. Zašto? Da bi smo istisnuli maksimum iz svakog VM-a i zaista stekli osećaj tereta koji mogu da podnesu.
+Ovaj projekat sadrži Java aplikaciju koja simulira GPS uređaje, generišući i šaljući lažne GPS koordinate. **CILJ**: Ovaj projekat kombinuje testiranje performansi sa virtualizacijom. 
+GPS simulator pokrecem na jednoj ili više Ubuntu VM-ova na Proxmox serveru. **ZAŠTO?** Da bih izvukao maksimum iz svakog VM-a i izvršio procjenu tereta koji mogu da podnesu.
 
 ## Pretpostavke
 
