@@ -25,7 +25,7 @@ Na Windows-u:
 
 `export PATH=$JAVA_HOME/bin:$PATH`
 
-Na macOS/Linux:
+Na Linux:
 
 1. Otvorite terminal.
 2. Ažurirajte vaš `.bashrc` ili `.zshrc` fajl dodavanjem:
