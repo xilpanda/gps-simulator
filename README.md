@@ -59,7 +59,7 @@ Iz direktorijuma projekta:
 Ako koristite Eclipse:
 
 1. Otvorite Eclipse i izaberite 'File' > 'Open Projects from File System...'.
-2. Pronađite direktorijum gde ste klonirali projekat i otvorite ga.
+2. Pronađite direktorijum gdje ste klonirali projekat i otvorite ga.
 3. Desni klik na projekat u Package Explorer-u i izaberite 'Run As' > 'Java Application'.
 
 
