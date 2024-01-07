@@ -29,7 +29,7 @@ Na Linux:
 
 1. Otvorite terminal.
 2. Ažurirajte vaš `.bashrc` ili `.zshrc` fajl dodavanjem:
-3. Sačuvajte fajl i izvršite `source ~/.bashrc` ili `source ~/.zshrc` da primenite promene.
+3. Sačuvajte fajl i izvršite `source ~/.bashrc` ili `source ~/.zshrc` da primjenite promjene.
 
 ## Preuzimanje projekta
 
